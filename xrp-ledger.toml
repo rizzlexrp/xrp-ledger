@@ -1,0 +1,19 @@
+[[ISSUERS]]
+address = "rE99nDT3riuM9VjMQkVstMqRGBsnUHw6vm"
+name = "RIPPLE WITH RIZZ"
+
+[[TOKENS]]
+issuer = "rE99nDT3riuM9VjMQkVstMqRGBsnUHw6vm"
+currency = "RIZZLE"
+name = "RIPPLE WITH RIZZ"
+desc = "RIZZLE. We swapped out the P's in Ripple and replaced them with Z's. Adding Rizz to Ripple."
+icon = "https://ipfs.firstledger.net/ipfs/QmUz9JVPnVqMBYKxaK35bACWzM7nRJ9TJzzv1rNtxeFQkr"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.rizzlexrp.com/"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://twitter.com/RIZZLE_XRP"
+type = "socialmedia"
